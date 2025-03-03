@@ -9,3 +9,7 @@ cd C:\Users\София\Documents\GitHub\PS05_web_scrapping\lightpars\lightpars\s
 scrapy crawl lightfilepars
 ```
 
+Установите зависимости:
+   ```bash
+   pip install -r requirements.txt
+   ```
